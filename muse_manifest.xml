@@ -1,8 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="TMCT.github.io" resolutions="1x" timestamp="1566147408301">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="TMCT.github.io" resolutions="1x" timestamp="1566146050996">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-__.css" crc="444964786" ref="index"/>
-    <file name="index.css" crc="3830652452" ref="index"/>
+    <file name="index.css" crc="122749095" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,35 +9,7 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="310584261" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
-  <folder name="images">
-    <file name="apc_0236.jpg" crc="4093564266" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="img_3501.jpg" crc="4008318925" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_3922.jpg" crc="202012595" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_3944.jpg" crc="3892144531" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_4503.jpg" crc="3882402445" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u96-4.png" crc="3794073003" ref="index"/>
-    <file name="u241-4.png" crc="425381760" ref="index"/>
-    <file name="u261-4.png" crc="228140546" ref="index"/>
-    <file name="u281-4.png" crc="392036883" ref="index"/>
-    <file name="u301-4.png" crc="94623215" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-  </folder>
-  <file name="index.html" crc="4020660423" seo="true" mt="1566147381726" redirect="true"/>
+  <file name="index.html" crc="4108446835" seo="true" mt="1566145959964" redirect="false"/>
 </manifest>
